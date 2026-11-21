@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+GD-ENE-01,Energy Oil Gas and Mining,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-ENE-02,Energy Oil Gas and Mining,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-ENE-03,Energy Oil Gas and Mining,Climate vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-ENE-04,Energy Oil Gas and Mining,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-ENE-05,Energy Oil Gas and Mining,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+GD-TEL-01,Telecom and Digital Infrastructure,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-TEL-02,Telecom and Digital Infrastructure,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-TEL-03,Telecom and Digital Infrastructure,Climate vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-TEL-04,Telecom and Digital Infrastructure,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-TEL-05,Telecom and Digital Infrastructure,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

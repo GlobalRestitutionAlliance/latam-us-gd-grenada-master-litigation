@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+GD-BAN-01,Banking and Sanctions Compliance,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-BAN-02,Banking and Sanctions Compliance,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-BAN-03,Banking and Sanctions Compliance,Climate vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-BAN-04,Banking and Sanctions Compliance,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-BAN-05,Banking and Sanctions Compliance,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

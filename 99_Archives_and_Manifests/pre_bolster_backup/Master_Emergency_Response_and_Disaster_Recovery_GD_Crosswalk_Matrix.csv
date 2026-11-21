@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+GD-EME-01,Emergency Response and Disaster Recovery,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-EME-02,Emergency Response and Disaster Recovery,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-EME-03,Emergency Response and Disaster Recovery,Climate vulnerability,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-EME-04,Emergency Response and Disaster Recovery,"1983 US invasion (Operation Urgent Fury, public record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+GD-EME-05,Emergency Response and Disaster Recovery,Colonial legacy and small-island economic constraints,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
