@@ -1,0 +1,17 @@
+{
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB323/index.htm",
+  "final_url": "https://nsarchive.gwu.edu/",
+  "title": "National Security Archive - Grenada",
+  "fetched_at": "2026-11-23T15:33:06.609877Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 68115,
+  "sha256": "046d2e1e469e5a5e8506e58bcb7e56a3ed2404b43920d50987d3ed288673a217",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
